@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1020.0" height="1420.0" viewBox="-230.0 -70.0 1020.0 1420.0" version="1.1">
+<rect x="-230.0" y="-70.0" width="1020.0" height="1420.0" fill="rgb(11,19,30)"/>
+<g id="g62465402">
+<polygon id="s20209291" points="-40.0,-40.0 380.0,-40.0 380.0,40.0 -40.0,40.0 " fill="none"/>
+<g id="t62465402">
+<text xml:space="preserve" x="46.49997" y="21.98436" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="56">MAIN PAGE</text>
+</g>
+</g>
+<g id="g94130475">
+<polygon id="s221019009" points="140.0,80.0 220.0,80.0 220.0,140.0 140.0,140.0 " fill="none"/>
+<path id="s5772326" d="M 140.0,140.0 219.99994,140.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t94130475">
+<text xml:space="preserve" x="147.5" y="120.20703" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="26">ROUTE</text>
+</g>
+</g>
+<g id="g109828488">
+<polygon id="s21880472" points="100.0,400.0 240.0,400.0 240.0,440.0 100.0,440.0 " fill="none"/>
+<path id="s160057073" d="M 99.99999,439.99994 239.99995,439.99994 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t109828488">
+<text xml:space="preserve" x="146.49997" y="426.28122" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="16">Route:/</text>
+</g>
+</g>
+<g id="g218316577">
+<polygon id="s14930646" points="540.0,720.0 680.0,720.0 680.0,760.0 540.0,760.0 " fill="none"/>
+<path id="s46278999" d="M 540.0,760.0 679.9999,760.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t218316577">
+<text xml:space="preserve" x="549.49994" y="746.28125" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="16">Route:/dashboard</text>
+</g>
+</g>
+<g id="g203693894">
+<polygon id="s93211716" points="460.0,780.0 760.0,780.0 760.0,1000.0 460.0,1000.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<polygon id="s158032173" points="725.0,795.0 745.0,795.0 745.0,825.0 725.0,825.0 " fill="none"/>
+<ellipse id="s2246242" cx="735.00037" cy="799.5" rx="5.0" ry="4.5" fill="none" stroke-width="1.0" stroke="rgb(221,116,11)"/>
+<path id="s30802931" d="M 735.00037,804.0 735.00037,814.5001 " fill="none" stroke-width="1.0" stroke="rgb(221,116,11)"/>
+<path id="s239462576" d="M 725.00037,807.00006 745.00037,807.00006 " fill="none" stroke-width="1.0" stroke="rgb(221,116,11)"/>
+<path id="s147448617" d="M 735.00037,814.5001 725.00037,825.00024 " fill="none" stroke-width="1.0" stroke="rgb(221,116,11)"/>
+<path id="s199386798" d="M 735.00037,814.5001 745.00037,825.00024 " fill="none" stroke-width="1.0" stroke="rgb(221,116,11)"/>
+<g id="t203693894">
+<text xml:space="preserve" x="482.0" y="886.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="12">Within dashboard, that should contain user profile</text>
+<text xml:space="preserve" x="479.5" y="902.65625" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="12">information, and Counting Total Password Inserted</text>
+</g>
+</g>
+<g id="g51172615">
+<polygon id="s54717519" points="-200.0,1100.0 -60.0,1100.0 -60.0,1180.0 -200.0,1180.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s194568156" d="M -200.0,1120.0 -60.00002,1120.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t51172615">
+<text xml:space="preserve" x="-164.5" y="1146.2266" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14">Insert Page</text>
+<text xml:space="preserve" x="-130.0" y="1164.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="g264832564">
+<polygon id="s74746085" points="-180.0,1040.0 -100.0,1040.0 -100.0,1080.0 -180.0,1080.0 " fill="none"/>
+<path id="s225591226" d="M -180.0,1080.0 -100.00001,1080.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t264832564">
+<text xml:space="preserve" x="-168.0" y="1064.7109" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="12">Route: /add</text>
+</g>
+</g>
+<g id="g145992797">
+<polygon id="s216792683" points="80.0,840.0 140.0,840.0 140.0,880.0 80.0,880.0 " fill="none"/>
+<path id="s163716552" d="M 80.00001,880.0 140.0,880.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t145992797">
+<text xml:space="preserve" x="91.0" y="864.71094" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="12">Route: /</text>
+</g>
+</g>
+<g id="g267577810">
+<rect id="s225037921" x="60.0" y="460.0" width="220.0" height="120.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)" rx="24.0" ry="24.0"/>
+<g id="t267577810">
+<text xml:space="preserve" x="87.0" y="516.22656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14">Home Page, Greetings Page.</text>
+<text xml:space="preserve" x="149.5" y="534.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14">(Guest)</text>
+</g>
+</g>
+<g id="g135772835">
+<polygon id="s49585542" points="40.0,900.0 240.0,900.0 240.0,980.0 40.0,980.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s97130055" d="M 40.0,920.0 239.99998,920.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t135772835">
+<text xml:space="preserve" x="84.0" y="946.22656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14">show page&amp;button</text>
+<text xml:space="preserve" x="92.5" y="964.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14">edit&amp;delete&amp;add</text>
+</g>
+</g>
+<g id="g168448416">
+<polygon id="s197086836" points="420.0,1120.0 500.0,1120.0 500.0,1160.0 420.0,1160.0 " fill="none"/>
+<path id="s202633117" d="M 420.00003,1160.0 499.99997,1160.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t168448416">
+<text xml:space="preserve" x="431.5" y="1144.7109" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="12">Route: /edit</text>
+</g>
+</g>
+<g id="g218345817">
+<polygon id="s132975634" points="60.0,1280.0 180.0,1280.0 180.0,1320.0 60.0,1320.0 " fill="none"/>
+<path id="s25677795" d="M 60.0,1320.0 179.99997,1320.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t218345817">
+<text xml:space="preserve" x="73.499985" y="1304.7109" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="12">Route POST:/delete</text>
+</g>
+</g>
+<g id="g242340126">
+<path id="s79486432" d=" M395.95,685.64  L364.03,685.64  C363.58,685.64 363.15,685.5 362.83,685.26  C362.51,685.02 362.33,684.7 362.33,684.36  L362.33,663.93  C362.33,663.6 362.51,663.27 362.83,663.03  C363.15,662.79 363.58,662.66 364.03,662.66  L395.97,662.66  C396.42,662.66 396.85,662.79 397.17,663.03  C397.49,663.27 397.67,663.6 397.67,663.93  L397.67,684.36  C397.67,684.7 397.49,685.03 397.16,685.27  C396.84,685.51 396.4,685.64 395.95,685.64 ZM365.74,683.08 L394.25,683.08 394.25,665.21 365.75,665.21  z" fill="rgb(255,255,255)" stroke-width="0.8" stroke="rgb(255,255,255)"/>
+<path id="s189065369" d=" M387.85,663.95  L387.85,658.78  C387.7,655.66 384.15,653.2 380.0,653.32  L380.0,653.32  C375.88,653.2 372.35,655.62 372.14,658.71  L372.14,663.92 368.73,663.92 368.73,658.71  C368.93,654.22 374.01,650.64 380.0,650.77  L380.0,650.77  C386.0,650.67 391.05,654.29 391.2,658.79  L391.2,663.9  z" fill="rgb(255,255,255)" stroke-width="0.8" stroke="rgb(255,255,255)"/>
+<path id="s176936798" d=" M380.0,676.39  L380.0,676.39  C377.93,676.48 375.95,675.7 374.88,674.36  C373.81,673.03 373.81,671.35 374.88,670.01  C375.95,668.68 377.93,667.9 380.0,667.98  L380.0,667.98  C381.49,667.98 382.92,668.43 383.97,669.22  C385.02,670.01 385.6,671.08 385.6,672.19  L385.6,672.19  C385.6,673.31 385.02,674.38 383.96,675.17  C382.91,675.96 381.49,676.4 380.0,676.39 ZM380.0,670.53 C378.72,670.45 377.59,671.22 377.59,672.19  C377.59,673.15 378.72,673.93 380.0,673.84  L380.0,673.84  C381.21,673.85 382.21,673.1 382.2,672.19  L382.2,672.19  C382.2,671.75 381.97,671.33 381.55,671.02  C381.14,670.71 380.58,670.54 380.0,670.53  z" fill="rgb(255,255,255)" stroke-width="0.8" stroke="rgb(255,255,255)"/>
+<polygon id="s165513023" points="378.3,674.79 381.7,674.79 381.7,680.77 378.3,680.77 " fill="rgb(255,255,255)" stroke-width="0.8" stroke="rgb(255,255,255)"/>
+<path id="s205649932" d=" M380.0,700.0  C379.62,700.0 379.26,699.9 378.96,699.73  C373.6,696.83 367.49,694.79 361.02,693.74  C347.86,691.98 340.0,686.61 340.0,679.34  C340.13,675.83 341.61,672.42 344.26,669.51  C345.96,667.28 347.47,665.34 347.47,662.73  C347.3,659.22 345.2,655.92 341.69,653.61  C341.33,653.39 341.1,653.08 341.06,652.74  C341.01,652.4 341.15,652.06 341.45,651.79  C341.45,651.7 350.83,643.26 352.95,641.08  C353.25,640.77 353.72,640.58 354.23,640.56  C354.73,640.53 355.23,640.68 355.57,640.95  C358.5,643.56 362.75,645.15 367.29,645.33  C371.73,645.33 375.23,643.84 378.66,640.49  C378.98,640.18 379.47,640.0 380.0,640.0  C380.53,640.0 381.02,640.18 381.34,640.49  C384.75,643.84 388.27,645.33 392.71,645.33  C397.25,645.15 401.5,643.56 404.43,640.95  C404.77,640.68 405.27,640.53 405.77,640.56  C406.28,640.58 406.75,640.77 407.05,641.08  C409.17,643.26 418.47,651.7 418.55,651.79  C418.85,652.06 418.99,652.4 418.94,652.74  C418.9,653.08 418.67,653.39 418.31,653.61  C414.81,655.93 412.72,659.23 412.53,662.73  C412.53,665.29 414.03,667.28 415.74,669.51  C418.39,672.42 419.87,675.83 420.0,679.34  C420.0,686.59 412.14,691.98 398.98,693.74  C392.51,694.78 386.4,696.82 381.04,699.73  C380.74,699.9 380.38,700.0 380.0,700.0 ZM345.07,652.49 C348.68,655.22 350.75,658.87 350.88,662.71  C350.68,665.6 349.41,668.39 347.2,670.76  C345.24,673.32 343.4,675.67 343.4,679.32  C343.4,688.08 357.34,690.63 361.62,691.22  C368.22,692.24 374.47,694.26 380.0,697.15  C385.53,694.27 391.78,692.26 398.38,691.24  C402.66,690.65 416.6,688.1 416.6,679.34  C416.6,675.69 414.76,673.3 412.8,670.79  C410.59,668.42 409.32,665.62 409.12,662.73  C409.25,658.9 411.32,655.24 414.93,652.52  C412.83,650.59 408.03,646.21 405.53,643.76  C402.12,646.29 397.55,647.77 392.75,647.89  C387.79,647.89 383.09,646.19 380.0,643.28  C376.92,646.18 372.23,647.88 367.29,647.89  C362.47,647.77 357.89,646.3 354.47,643.76  C351.97,646.21 347.17,650.59 345.07,652.49  z" fill="rgb(255,255,255)" stroke-width="0.8" stroke="rgb(255,255,255)"/>
+<g id="t242340126">
+<text xml:space="preserve" x="366.0" y="714.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14">AUTH</text>
+</g>
+</g>
+<g id="la258039295">
+<path id="s258039295" d="M 170.0,40.0 180.0,80.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s116553045" d="M 170.27419,72.97088 180.0,80.0 185.27377,69.22098 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t258039295">
+<text xml:space="preserve" x="179.0" y="65.49609" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la156428236">
+<path id="s156428236" d="M 59.999992,980.0 59.999992,1140.0 -60.0,1140.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t156428236">
+<text xml:space="preserve" x="63.999992" y="1138.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la246745621">
+<path id="s246745621" d="M 220.0,980.0 220.0,1140.0 420.0,1140.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t246745621">
+<text xml:space="preserve" x="236.0" y="1158.7656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la224780586">
+<path id="s224780586" d="M 140.0,980.0 140.0,1280.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s28137563" d="M 132.2694,1270.8219 140.0,1280.0 147.7306,1270.8219 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t224780586">
+<text xml:space="preserve" x="144.0" y="1135.4961" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la259513115">
+<path id="s259513115" d="M 170.0,400.0 170.0,140.0 160.0,140.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t259513115">
+<text xml:space="preserve" x="174.0" y="270.4961" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la212645048">
+<path id="s212645048" d="M 109.99999,840.0 110.0,760.0 540.0,760.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t212645048">
+<text xml:space="preserve" x="281.0" y="752.22656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la48837265">
+<path id="s48837265" d="M 240.00002,440.0 380.0,440.0 380.0,640.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t48837265">
+<text xml:space="preserve" x="384.0" y="462.22656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la131655158">
+<path id="s131655158" d="M 109.99999,840.0 110.0,670.0 340.0,670.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t131655158">
+<text xml:space="preserve" x="136.0" y="662.22656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la263130615">
+<path id="s263130615" d="M 420.0,670.0 610.0,670.0 610.0,720.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t263130615">
+<text xml:space="preserve" x="544.0" y="662.22656" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+</svg>

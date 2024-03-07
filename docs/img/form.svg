@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1139.0" height="1360.0" viewBox="-210.0 -2530.0 1139.0 1360.0" version="1.1">
+<rect x="-210.0" y="-2530.0" width="1139.0" height="1360.0" fill="rgb(11,19,30)"/>
+<g id="s39666802">
+<polygon id="s39666802" points="-180.0,-1980.0 340.00006,-1980.0 339.99982,-1700.0 -179.99998,-1700.0001 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t39666802">
+<text xml:space="preserve" x="80.00003" y="-1892.5234" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="18"/>
+<text xml:space="preserve" x="80.00003" y="-1868.6875" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="18"/>
+<text xml:space="preserve" x="5.5000305" y="-1844.8516" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="18">1. Name/Username.</text>
+<text xml:space="preserve" x="16.50003" y="-1821.0156" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="18">2. Set Password</text>
+<text xml:space="preserve" x="-32.49997" y="-1797.1797" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="18">3. Key To Recovery(Guessing)</text>
+<text xml:space="preserve" x="80.00003" y="-1773.3438" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="18"/>
+</g>
+</g>
+<g id="s247271619">
+<polygon id="s247271619" points="439.99997,-1980.0 899.9996,-1980.0 899.9998,-1700.0 439.99973,-1700.0028 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t247271619">
+<text xml:space="preserve" x="591.99976" y="-1845.3906" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="20">1.Username/Name</text>
+<text xml:space="preserve" x="618.99976" y="-1818.9062" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="20">2.Password</text>
+</g>
+</g>
+<g id="g191741248">
+<polygon id="s183497600" points="300.0,-2460.0 460.0,-2460.0 460.0,-2340.0 300.0,-2340.0 " fill="none"/>
+<g id="t191741248">
+<text xml:space="preserve" x="310.5" y="-2372.912" font-family="Sans,Helvetica" font-weight="bold" fill="rgb(229,255,255)" font-size="69">USER</text>
+</g>
+</g>
+<g id="g216220793">
+<ellipse id="s157015481" cx="390.0" cy="-2400.0" rx="130.0" ry="100.00012" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t216220793">
+<text xml:space="preserve" x="390.0" y="-2394.504" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="g171390398">
+<polygon id="s264369662" points="-20.0,-2060.0 120.0,-2060.0 120.0,-2000.0 -20.0,-2000.0 " fill="none"/>
+<path id="s251482463" d="M -20.000004,-2000.0004 119.99999,-2000.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t171390398">
+<text xml:space="preserve" x="-5.500004" y="-2018.2227" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="30">Register</text>
+</g>
+</g>
+<g id="g181794335">
+<polygon id="s253806508" points="600.0,-2080.0 740.0,-2080.0 740.0,-2000.0 600.0,-2000.0 " fill="none"/>
+<path id="s148085877" d="M 600.0,-2000.0012 740.0,-2000.001 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t181794335">
+<text xml:space="preserve" x="636.5" y="-2028.2231" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="30">Login</text>
+</g>
+</g>
+<g id="g152137068">
+<polygon id="s54752266" points="300.0,-1560.0 560.0,-1560.0 560.0,-1500.0 300.0,-1500.0 " fill="none"/>
+<path id="s181380219" d="M 300.00003,-1500.0 559.99963,-1500.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t152137068">
+<text xml:space="preserve" x="313.50006" y="-1518.2227" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="30">Forgot Password </text>
+</g>
+</g>
+<g id="s155889461">
+<polygon id="s155889461" points="200.00026,-1480.0 659.9995,-1480.0 659.99976,-1200.0 200.00002,-1200.0028 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t155889461">
+<text xml:space="preserve" x="358.99988" y="-1345.3906" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="20">1. Get Username.</text>
+<text xml:space="preserve" x="305.49988" y="-1318.9062" font-family="Sans,Helvetica" fill="rgb(179,229,252)" font-size="20">2. Matchup The Recovery Key</text>
+</g>
+</g>
+<g id="la237825994">
+<path id="s237825994" d="M 410.0,-2300.0 469.99976,-1980.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t237825994">
+<text xml:space="preserve" x="443.99988" y="-2134.504" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la174970171">
+<path id="s174970171" d="M 370.0,-2300.0 320.00003,-1980.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t174970171">
+<text xml:space="preserve" x="349.0" y="-2134.504" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+<g id="la241038424">
+<path id="s241038424" d="M 729.99976,-1700.0011 589.9999,-1480.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t241038424">
+<text xml:space="preserve" x="663.9998" y="-1584.5044" font-family="Sans,Helvetica" fill="rgb(229,255,255)" font-size="14"/>
+</g>
+</g>
+</svg>
